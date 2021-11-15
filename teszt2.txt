@@ -6,4 +6,8 @@ asd
 
 efg
 
+<<<<<<< HEAD
 aaaaaa
+=======
+geprol
+>>>>>>> 8e1a91150abd8e9920ff4cad16b792e529eae5cc
